@@ -87,6 +87,9 @@ header a, footer a {
     padding-bottom: 1%;
 }
 
+.col {
+    padding-right: 1%;
+}
 
 
 
@@ -164,4 +167,5 @@ header a, footer a {
     .sidebar {
         padding: 3% 4%;
     }
+
 }
