@@ -46,7 +46,7 @@ header a, footer a {
 
 
 
-/* Index Page */
+/* Index Section */
 
 .index-main {
     display: flex;
@@ -88,20 +88,24 @@ header a, footer a {
 }
 
 .col {
-    padding-right: 1%;
+    padding-right: 2%;
 }
 
 
 
-/* Gallery Page */
+/* Gallery Section */
 
-.gallery-main {
+#gallery {
     text-align: center;
-    padding: 2%;
 }
 
-.gallery-main h2 {
-    padding-bottom: 2%;
+#gallery h2 {
+    background-color: rgb(187, 211, 231);
+    padding: 3%;
+}
+
+.gallery-img {
+    padding: 2%;
 }
 
 
